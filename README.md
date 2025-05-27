@@ -36,7 +36,7 @@ Soy un desarrollador de software junior con formación sólida en desarrollo de 
 
 ## 📂 Repositorios destacados
 
-- 🔐 [Login con Firebase](https://github.com/CSamuelRod/...) – Autenticación segura en web con Firebase
+- 🔐 [Mi porfolio](https://csamuelrod.github.io/miPortfolio/) – Porfolio donde puedes ver un poco mas de mi
 - 📋 [CRUD con Firestore](https://github.com/CSamuelRod/...) – Gestión de datos en Firestore con HTML/CSS/JS
 - 📱 [App móvil en Kotlin](https://github.com/CSamuelRod/...) – Aplicación nativa Android con diseño moderno y consumo de datos
 - 🧪 [Otros proyectos personales](https://github.com/CSamuelRod?tab=repositories)
