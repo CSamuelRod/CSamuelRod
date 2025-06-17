@@ -45,7 +45,7 @@ Soy un desarrollador de software junior con formación sólida en desarrollo de 
 
 ## 📫 Contacto
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/carlos-samuel-rodriguezpalomino/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/carlos-samuel-rodriguez-palomino/)
 - ✉️ [Email](mailto:samuel.rodpal@gmail.com)
 
 ---
