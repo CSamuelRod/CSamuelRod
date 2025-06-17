@@ -51,3 +51,9 @@ Soy un desarrollador de software junior con formación sólida en desarrollo de 
 ---
 
 📌 *Siempre abierto a nuevas oportunidades, colaboración en proyectos o simplemente conectar con otros desarrolladores.*
+
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=CSamuelRod)](https://git.io/streak-stats)
+
