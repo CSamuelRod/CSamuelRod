@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Carlos Samuel Rodríguez
+# 👋 ¡Hola! Soy Samuel Rodríguez
 
 🎓 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)  
 💻 Desarrollador de software junior con experiencia en desarrollo web y móvil  
