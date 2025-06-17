@@ -10,10 +10,10 @@
 
 ## 🚀 Sobre mí
 
-Soy un desarrollador de software junior con formación sólida en desarrollo de aplicaciones tanto web como móviles. He participado en proyectos usando tecnologías modernas como Java, Kotlin y Firebase, siempre con una actitud de aprendizaje continuo y colaboración.
+Soy un desarrollador de software junior con formación sólida en desarrollo de aplicaciones tanto web como móviles. He participado en proyectos usando tecnologías modernas como Java, Kotlin y Spring Boot, siempre con una actitud de aprendizaje continuo y colaboración.
 
 - 👨‍💻 Experiencia en prácticas desarrollando interfaces, autenticación y CRUDs con Firebase
-- 📱 Desarrollo de apps móviles nativas con Kotlin y Android Studio
+- 📱 Desarrollo de apps móviles con Kotlin y Android Studio
 - 🔄 Trabajo en equipo usando metodologías ágiles como Kanban
 - 🛠️ Participación en proyectos personales de desarrollo
 
