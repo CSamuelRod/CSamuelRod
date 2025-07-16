@@ -22,7 +22,7 @@ En proyectos personales y académicos, he trabajado principalmente con **Java (S
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Lenguajes de programación
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
