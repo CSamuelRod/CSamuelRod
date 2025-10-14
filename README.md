@@ -10,35 +10,35 @@
 
 ## 🚀 Sobre mí
 
-Soy un **desarrollador de software junior** con formación sólida en el desarrollo de aplicaciones web y móviles. He participado en proyectos reales utilizando tecnologías modernas como **Java** y **JavaScript**, siempre manteniendo una actitud de aprendizaje continuo y colaboración en equipo.
+Soy un programador Java con formación sólida en el desarrollo de aplicaciones web y experiencia práctica trabajando con un framework propio de empresa basado en Java.
 
-En proyectos personales y académicos, he trabajado principalmente con **Java (Spring Boot)** y **Kotlin**, además de tecnologías web como **JavaScript** y **TypeScript** con **React**.
+Durante mi formación, adquirí conocimientos en los fundamentos del desarrollo Java web (Servlets, JSP, JDBC) y también una base en Spring Boot, JPA/Hibernate y APIs REST, áreas en las que actualmente sigo profundizando y consolidando mis habilidades.
+
+Me apasiona el aprendizaje continuo, la escritura de código limpio y la mejora constante de procesos en entornos colaborativos.
 
 ### 💼 Experiencia destacada:
-- 👨‍💻 Desarrollo de interfaces, autenticación y operaciones CRUD utilizando **Firebase**.
-- 📱 Creación de aplicaciones móviles con **Kotlin** en **Android Studio**, consumiendo APIs REST.
-- 🔄 Trabajo colaborativo bajo metodologías ágiles como **Kanban**.
-- 🛠️ Participación activa en proyectos personales de desarrollo.
+⚙️ Desarrollo de aplicaciones web internas en Java, utilizando un framework propietario.
+🧩 Conocimientos sólidos en Servlets, JSP y JDBC para la creación de aplicaciones web dinámicas.
+🌱 Bases en Spring Boot, JPA/Hibernate y REST APIs, con interés en seguir ampliando experiencia práctica.
+🔄 Trabajo bajo metodologías ágiles y colaboración en equipo multidisciplinar.
+💾 Manejo de bases de datos relacionales y operaciones CRUD.
 
 ---
 
 ## 🛠️ Lenguajes de programación
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ---
 
 ## 🧰 Frameworks
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 ---
 
@@ -71,7 +71,7 @@ En proyectos personales y académicos, he trabajado principalmente con **Java (S
 
 ---
 
-📌 *Siempre abierto a nuevas oportunidades, colaboración en proyectos o simplemente conectar con otros desarrolladores.*
+📌 *Continuamente aprendiendo y mejorando en el ecosistema Java, abierto a nuevas oportunidades donde pueda seguir creciendo profesionalmente y contribuir en equipos de desarrollo dinámicos.*
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=CSamuelRod&hide_border=true)](https://git.io/streak-stats)
