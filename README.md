@@ -1,20 +1,20 @@
 # 👋 ¡Hola! Soy Samuel Rodríguez
 
-🎓 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)  
-💻 Desarrollador de software junior con experiencia en desarrollo web y móvil  
-🌐 Tecnologías: Java · Kotlin · JavaScript · HTML/CSS · Firebase · SQL · Git  
-📍 Madrid, España  
+🎓 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)
+💻 Desarrollador Java con experiencia en entornos web empresariales
+🌐 Tecnologías: Java · SQL · Spring Boot 
+📍 Madrid, España
 📬 [samuel.rodpal@gmail.com](mailto:samuel.rodpal@gmail.com)
 
 ---
 
 ## 🚀 Sobre mí
 
-Soy un programador Java con formación sólida en el desarrollo de aplicaciones web y experiencia práctica trabajando con un framework propio de empresa basado en Java.
+Soy un programador Java con sólida formación en desarrollo de aplicaciones web y experiencia práctica trabajando con un framework propio de empresa.
 
-Durante mi formación, adquirí conocimientos en los fundamentos del desarrollo Java web (Servlets, JSP, JDBC) y también una base en Spring Boot, JPA/Hibernate y APIs REST, áreas en las que actualmente sigo profundizando y consolidando mis habilidades.
+Durante mi formación, adquirí conocimientos fundamentales en Servlets, JSP y JDBC, así como una base en Spring Boot, JPA/Hibernate, APIs REST y Spring Security, áreas en las que continúo profundizando. También me interesa la automatización de pruebas (testing) para garantizar software de calidad y confiable.
 
-Me apasiona el aprendizaje continuo, la escritura de código limpio y la mejora constante de procesos en entornos colaborativos.
+Me apasiona el aprendizaje continuo y la mejora de procesos, y estoy abierto a oportunidades donde pueda desarrollar mis habilidades en el ecosistema Java, especialmente en proyectos que involucren backend, seguridad, testing y buenas prácticas de desarrollo.
 
 ### 💼 Experiencia destacada:
 ⚙️ Desarrollo de aplicaciones web internas en Java, utilizando un framework propietario.
