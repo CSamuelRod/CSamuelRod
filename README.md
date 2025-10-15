@@ -85,6 +85,3 @@ Me apasiona el aprendizaje continuo y la mejora de procesos, y estoy abierto a o
 
 📌 *Continuamente aprendiendo y mejorando en el ecosistema Java, abierto a nuevas oportunidades donde pueda seguir creciendo profesionalmente y contribuir en equipos de desarrollo dinámicos.*
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=CSamuelRod&hide_border=true)](https://git.io/streak-stats)
-
