@@ -72,7 +72,6 @@ Me apasiona el aprendizaje continuo y la mejora de procesos, y estoy abierto a o
 
 - 🔐 [Mi porfolio](https://csamuelrod.github.io/porfolio/) – Porfolio donde puedes ver un poco mas de mi
 - 📋 [CRUD con Spring Boot y Thymeleaf](https://github.com/CSamuelRod/presentacion) – Gestión de datos de usuarios en Java con HTML/CSS y Thymeleaf
-- 📱 [App móvil en Kotlin](https://github.com/CSamuelRod/...) – Aplicación nativa Android con diseño moderno y consumo de datos
 - 🧪 [Otros proyectos personales](https://github.com/CSamuelRod?tab=repositories)
 
 ---
