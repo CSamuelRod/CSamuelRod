@@ -22,9 +22,13 @@ Me apasiona el aprendizaje continuo y la mejora de procesos, y estoy abierto a o
 
 ### 💼 Experiencia destacada:
 ⚙️ Desarrollo de aplicaciones web internas en Java, utilizando un framework propietario.
+
 🧩 Conocimientos sólidos en Servlets, JSP y JDBC para la creación de aplicaciones web dinámicas.
+
 🌱 Bases en Spring Boot, JPA/Hibernate y REST APIs, con interés en seguir ampliando experiencia práctica.
+
 🔄 Trabajo bajo metodologías ágiles y colaboración en equipo multidisciplinar.
+
 💾 Manejo de bases de datos relacionales y operaciones CRUD.
 
 ---
@@ -42,20 +46,25 @@ Me apasiona el aprendizaje continuo y la mejora de procesos, y estoy abierto a o
 ## 🧰 Frameworks
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=spring&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-007396?style=flat&logo=java&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)
 
 ---
 
 ## 🧪 Herramientas
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ---
 
