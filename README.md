@@ -1,9 +1,13 @@
 # 👋 ¡Hola! Soy Samuel Rodríguez
 
 🎓 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)
+
 💻 Desarrollador Java con experiencia en entornos web empresariales
+
 🌐 Tecnologías: Java · SQL · Spring Boot 
+
 📍 Madrid, España
+
 📬 [samuel.rodpal@gmail.com](mailto:samuel.rodpal@gmail.com)
 
 ---
